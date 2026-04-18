@@ -37,6 +37,10 @@
    Скопируйте папку с иконками в ~/.local/share/icons/ или ~/.icons/
    Команда: cp -r ~/configs/icons ~/.local/share/icons/my-icons
 
+9. Обои:
+   Скопируйте папку с обоями в ~/Pictures/ или ~/.config/hypr/
+   Команда: cp -r ~/configs/wallpapers ~/Pictures/
+
 
 [ENGLISH]
 How to apply these configuration files:
@@ -72,3 +76,7 @@ How to apply these configuration files:
 8. Icons:
    Copy the icons folder to ~/.local/share/icons/ or ~/.icons/
    Command: cp -r ~/configs/icons ~/.local/share/icons/my-icons
+
+9. Wallpapers:
+   Copy the wallpapers folder to ~/Pictures/ or ~/.config/hypr/
+   Command: cp -r ~/configs/wallpapers ~/Pictures/
