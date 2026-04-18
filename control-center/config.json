@@ -1,0 +1,11 @@
+{
+  "//": "Настройки кастомного Control Center / Custom Control Center settings",
+  "theme": "dark",
+  "modules": [
+    "wifi",
+    "bluetooth",
+    "volume",
+    "brightness"
+  ],
+  "position": "top-right"
+}

@@ -1,0 +1,11 @@
+# Wofi Configuration
+
+# Режим запуска (программы) / Run mode (programs)
+mode=drun
+
+# Показывать иконки / Show icons
+show=icons
+
+# Размеры окна / Window size
+width=400
+height=300

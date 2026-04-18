@@ -1,0 +1,17 @@
+{
+    // Waybar Configuration
+    
+    // Позиция бара / Bar position
+    "layer": "top",
+    "position": "top",
+    
+    // Модули слева, по центру, справа / Modules left, center, right
+    "modules-left": ["hyprland/workspaces"],
+    "modules-center": ["hyprland/window"],
+    "modules-right": ["pulseaudio", "network", "clock", "tray"],
+    
+    // Настройка часов / Clock settings
+    "clock": {
+        "format": "{:%H:%M}"
+    }
+}

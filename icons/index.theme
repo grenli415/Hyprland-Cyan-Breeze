@@ -1,0 +1,7 @@
+# Icons Configuration
+# Настройка темы иконок / Icon theme settings
+
+[Icon Theme]
+Name=MyCustomIcons
+Comment=My custom icon theme
+Inherits=Papirus,breeze,hicolor

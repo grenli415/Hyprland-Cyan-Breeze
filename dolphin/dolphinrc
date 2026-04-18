@@ -1,0 +1,10 @@
+# Dolphin Configuration
+# Настройки файлового менеджера Dolphin / Dolphin file manager settings
+
+[General]
+# Показывать скрытые файлы / Show hidden files
+ShowHiddenFiles=true
+
+[KFileDialog Settings]
+# Вид по умолчанию (детальный) / Default view (detailed)
+ViewStyle=Detail
